@@ -1,0 +1,24 @@
+C:\Users\W0455723\Desktop\LocalProgramming\VariableDataTypes\VariableDataTypes\bin\Debug\VariableDataTypes.exe.config
+C:\Users\W0455723\Desktop\LocalProgramming\VariableDataTypes\VariableDataTypes\bin\Debug\VariableDataTypes.exe
+C:\Users\W0455723\Desktop\LocalProgramming\VariableDataTypes\VariableDataTypes\bin\Debug\VariableDataTypes.pdb
+C:\Users\W0455723\Desktop\LocalProgramming\VariableDataTypes\VariableDataTypes\bin\Debug\VariableDataTypes.xml
+C:\Users\W0455723\Desktop\LocalProgramming\VariableDataTypes\VariableDataTypes\obj\Debug\VariableDataTypes.vbproj.AssemblyReference.cache
+C:\Users\W0455723\Desktop\LocalProgramming\VariableDataTypes\VariableDataTypes\obj\Debug\VariableDataTypes.Resources.resources
+C:\Users\W0455723\Desktop\LocalProgramming\VariableDataTypes\VariableDataTypes\obj\Debug\VariableDataTypes.vbproj.GenerateResource.cache
+C:\Users\W0455723\Desktop\LocalProgramming\VariableDataTypes\VariableDataTypes\obj\Debug\VariableDataTypes.vbproj.CoreCompileInputs.cache
+C:\Users\W0455723\Desktop\LocalProgramming\VariableDataTypes\VariableDataTypes\obj\Debug\VariableDataTypes.exe
+C:\Users\W0455723\Desktop\LocalProgramming\VariableDataTypes\VariableDataTypes\obj\Debug\VariableDataTypes.xml
+C:\Users\W0455723\Desktop\LocalProgramming\VariableDataTypes\VariableDataTypes\obj\Debug\VariableDataTypes.pdb
+C:\Users\W0455723\Desktop\LocalProgramming\VariableDataTypes\VariableDataTypes\obj\Debug\VariableDataTypes.exe.config
+C:\Users\Mikey\Desktop\Mike's Folder\School Work Local\PROG1700\Programs\VariableDataTypes\VariableDataTypes\bin\Debug\VariableDataTypes.exe.config
+C:\Users\Mikey\Desktop\Mike's Folder\School Work Local\PROG1700\Programs\VariableDataTypes\VariableDataTypes\bin\Debug\VariableDataTypes.exe
+C:\Users\Mikey\Desktop\Mike's Folder\School Work Local\PROG1700\Programs\VariableDataTypes\VariableDataTypes\bin\Debug\VariableDataTypes.pdb
+C:\Users\Mikey\Desktop\Mike's Folder\School Work Local\PROG1700\Programs\VariableDataTypes\VariableDataTypes\bin\Debug\VariableDataTypes.xml
+C:\Users\Mikey\Desktop\Mike's Folder\School Work Local\PROG1700\Programs\VariableDataTypes\VariableDataTypes\obj\Debug\VariableDataTypes.vbproj.AssemblyReference.cache
+C:\Users\Mikey\Desktop\Mike's Folder\School Work Local\PROG1700\Programs\VariableDataTypes\VariableDataTypes\obj\Debug\VariableDataTypes.exe.config
+C:\Users\Mikey\Desktop\Mike's Folder\School Work Local\PROG1700\Programs\VariableDataTypes\VariableDataTypes\obj\Debug\VariableDataTypes.Resources.resources
+C:\Users\Mikey\Desktop\Mike's Folder\School Work Local\PROG1700\Programs\VariableDataTypes\VariableDataTypes\obj\Debug\VariableDataTypes.vbproj.GenerateResource.cache
+C:\Users\Mikey\Desktop\Mike's Folder\School Work Local\PROG1700\Programs\VariableDataTypes\VariableDataTypes\obj\Debug\VariableDataTypes.vbproj.CoreCompileInputs.cache
+C:\Users\Mikey\Desktop\Mike's Folder\School Work Local\PROG1700\Programs\VariableDataTypes\VariableDataTypes\obj\Debug\VariableDataTypes.exe
+C:\Users\Mikey\Desktop\Mike's Folder\School Work Local\PROG1700\Programs\VariableDataTypes\VariableDataTypes\obj\Debug\VariableDataTypes.xml
+C:\Users\Mikey\Desktop\Mike's Folder\School Work Local\PROG1700\Programs\VariableDataTypes\VariableDataTypes\obj\Debug\VariableDataTypes.pdb
